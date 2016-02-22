@@ -1,0 +1,60 @@
+{
+  "name": "react-native-sqlite-storage",
+  "version": "2.1.3",
+  "description": "SQLite3 bindings for React Native (Android & iOS)",
+  "main": "sqlite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified yet\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andpor/react-native-sqlite-storage.git"
+  },
+  "keywords": [
+    "react-native-sqlite-storage",
+    "react-native-sqlite",
+    "react-component",
+    "reactnative",
+    "react-native",
+    "sqlite",
+    "sqlite3",
+    "ios",
+    "android",
+    "promise",
+    "cordova-sqlite-storage"
+  ],
+  "author": {
+    "name": "Andrzej Porebski"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andpor/react-native-sqlite-storage/issues"
+  },
+  "homepage": "https://github.com/andpor/react-native-sqlite-storage",
+  "peerDependencies": {
+    "react-native": ">=0.14.0"
+  },
+  "gitHead": "6d80fe690c1073fe34e2f18a0e847219cb37de23",
+  "_id": "react-native-sqlite-storage@2.1.3",
+  "_shasum": "e01de9e5a4c6b0f1a69bd753d8b494b820a439a3",
+  "_from": "react-native-sqlite-storage@*",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.1",
+  "_npmUser": {
+    "name": "andpor",
+    "email": "fkuciapa@yahoo.com"
+  },
+  "dist": {
+    "shasum": "e01de9e5a4c6b0f1a69bd753d8b494b820a439a3",
+    "tarball": "http://registry.npmjs.org/react-native-sqlite-storage/-/react-native-sqlite-storage-2.1.3.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "andpor",
+      "email": "fkuciapa@yahoo.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/react-native-sqlite-storage/-/react-native-sqlite-storage-2.1.3.tgz",
+  "readme": "ERROR: No README data found!"
+}
