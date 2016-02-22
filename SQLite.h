@@ -13,7 +13,7 @@
  * See http://opensource.org/licenses/alphabetical for full text.
  */
 
-#import "node_modules/react-native/React/Base/RCTBridgeModule.h"
+#import "RCTBridgeModule.h"
 
 // Used to remove dependency on sqlite3.h in this header:
 struct sqlite3;

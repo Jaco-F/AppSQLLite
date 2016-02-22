@@ -18,10 +18,10 @@
 #import "SQLite.h"
 #import "SQLiteResult.h"
 
-#import "node_modules/react-native/React/Base/RCTLog.h"
-#import "node_modules/react-native/React/Base/RCTUtils.h"
-#import "node_modules/react-native/React/Base/RCTBridge.h"
-#import "node_modules/react-native/React/Base/RCTEventDispatcher.h"
+#import "RCTLog.h"
+#import "RCTUtils.h"
+#import "RCTBridge.h"
+#import "RCTEventDispatcher.h"
 
 /*
  * Copyright (C) 2012-2015 Chris Brody
